@@ -1,16 +1,8 @@
 # to_do_app
 
-A new Flutter project.
+# sample page
 
-## Getting Started
+![todopage1](https://github.com/user-attachments/assets/912e40d6-2709-45ee-92a4-2b512f9c0147)
 
-This project is a starting point for a Flutter application.
+![todopage2](https://github.com/user-attachments/assets/749087f0-6bb7-44fc-a438-a938a75110dc)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
